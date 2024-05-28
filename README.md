@@ -1,7 +1,7 @@
-# Browser Alytics Dashboard
+# Browser Analytics Dashboard
 
 ## Descrição
-O Browser Access Dashboard é uma aplicação frontend desenvolvida em React que apresenta um overview dos acessos dos navegadores mais utilizados. A interface exibe os dados em cartões informativos e gráficos interativos, permitindo que o usuário filtre os dados por data e período (completo, mês, semana).
+O Browser Analytics Dashboard é uma aplicação frontend desenvolvida em React que apresenta um overview dos acessos dos navegadores mais utilizados. A interface exibe os dados em cartões informativos e gráficos interativos, permitindo que o usuário filtre os dados por data e período (completo, mês, semana).
 
 ## Funcionalidades
 - Exibição de cartões informativos para cada navegador com título, ícone, e percentual de acessos.
